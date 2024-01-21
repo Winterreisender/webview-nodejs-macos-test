@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "webview-nodejs": "^0.4.0"
+    "libwebview-nodejs": "^0.0.7"
   }
 }
