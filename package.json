@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "lodash": "^4.17.21",
     "webview-nodejs": "^0.4.0"
   }
 }
