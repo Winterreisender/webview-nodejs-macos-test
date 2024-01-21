@@ -27,4 +27,4 @@ jobs:
       with:
         node-version: 20.x
         cache: 'npm'
-    - run: npm i webview-nodejs
+    - run: npm ci
